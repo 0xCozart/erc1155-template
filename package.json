@@ -1,7 +1,7 @@
 {
-  "name": "starter-kit",
+  "name": "tgthr",
   "version": "1.0.0",
-  "description": "OpenZeppelin kit containing React, & OpenZeppelin SDK",
+  "description": "Alpha Tgthr social media platform for NFT integration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenZeppelin/starter-kit"
+    "url": "git+https://github.com/AlanVegaDecentralize/erc1155-template"
   },
   "keywords": [
     "openzeppelin",
@@ -30,12 +30,8 @@
     "web3js",
     "ethereum"
   ],
-  "author": "Ramon Recuero <ramon@dapis.io>, Igor Yalovoy <to@ylv.io>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/OpenZeppelin/starter-kit/issues"
-  },
-  "homepage": "https://github.com/OpenZeppelin/starter-kit/blob/stable/README.md",
+  "author": "Alan Vega",
+  "homepage": "https://github.com/AlanVegaDecentralize/erc1155-template",
   "dependencies": {
     "dotenv": "^8.2.0",
     "truffle-hdwallet-provider": "^1.0.17"
